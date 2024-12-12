@@ -316,7 +316,7 @@ width: calc((100% - 48px) / 3)
 position: relative;
 overflow: hidden;
 }
-.item-banking:hover .overlay {
+.item-banking:hover .text-sumb {
     transform: translateY(0%);
    }
 
